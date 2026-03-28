@@ -1,0 +1,5 @@
+{
+  "name": "Clima Atmos",
+  "description": "Um aplicativo de clima elegante e minimalista com previsões em tempo real e fundos dinâmicos.",
+  "requestFramePermissions": ["geolocation"]
+}
